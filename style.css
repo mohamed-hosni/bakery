@@ -1,0 +1,329 @@
+
+*{
+    margin: 0;
+}
+
+.div1parent{
+background-image: url(images/drew-coffman-1872.jpg);
+
+height: 100vh;
+overflow: hidden;
+    background-position: 50%   ;
+ background-size: 100%;
+margin-bottom: 20px;
+
+}
+/*comment*/
+.div1child1{
+   padding-top: 40px;
+    text-align: center;
+color: ivory;
+font-family: Alegreya Sans,sans-serif,monospace;
+}
+.div1child1 p{
+    
+    color: #ccc;
+    font-size: 30px;
+    margin-bottom: 40px;
+    
+  
+
+}
+.div1child1 h1{
+   margin-bottom: 30;
+   font-size: 70px;
+    font-family: Alegreya;
+
+
+}
+.div1child2{
+    text-align: center;
+
+   
+}
+.div1child2 .btn{
+    /* background-color: transparent;
+    border: 2px solid black;
+    padding: 15px 20px;
+    cursor: pointer; */
+   
+
+    padding: 15px 20px;
+    
+    font-size: 17px;
+    border-radius: 5px;
+    text-align: center;
+    margin-right: 10px;
+    cursor: pointer;
+   
+    font-family: Alegreya Sans,sans-serif,monospace;
+    
+   
+    background-color: transparent;
+color: white;
+border: white solid;
+
+}
+.a1a{
+    background: #8e7754;
+    color: #fff;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    
+    font-size: 17px;
+    border-radius: 5px;
+    text-align: center;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+
+
+.div2{
+
+    padding: 40px;
+
+
+}
+
+
+
+.div2-img img{
+    width: 100%;
+}
+
+
+.div2-img{
+    float: left;
+width:40%;
+
+}
+.div2 i{
+    display: float !important;
+    padding: 10px;
+    
+}
+
+.div2 li{
+    list-style-type: none;
+}
+.div2-txt{
+    width: 60%;
+    text-align: center;
+   float: left;
+}
+.div2-txt h2{
+    margin-bottom: 30px;
+    font-family: Alegreya,serif,monospace;
+   
+    color: #303030;
+}
+.div2-txt p{
+
+    color: #686868;
+    line-height: 1.86em;
+    margin-bottom: 20px;
+    font-family: Alegreya Sans,sans-serif,monospace;
+    font-size: 17px;
+padding-left: 15px;
+}
+
+.div2 h4{
+    color: #303030;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.div3{
+
+}
+.div4{
+
+}
+
+.div3,.div5{
+    margin-top: 20;
+    text-align: center;
+    padding: 16;
+    background-color: aliceblue;
+}
+.div3-img{
+    width: 30%;
+    float: right;
+} 
+
+.div3-img img{
+    width: 95%;
+}
+.div3-txt{
+    float: left;
+    width: 60%;
+    
+}
+
+
+.div3-txt h2{
+
+    color: #303030;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+p{
+
+    color: #686868;
+    line-height: 1.86em;
+    margin-bottom: 20px;
+    font-family: Alegreya Sans,sans-serif,monospace;
+    font-size: 17px;
+    padding-left: 15px;
+}
+div{
+
+    text-align: center;
+}
+li{
+text-align: left;
+}
+p{
+
+    color: #686868;
+    line-height: 1.86em;
+    margin-bottom: 20px;
+    font-family: Alegreya Sans,sans-serif,monospace;
+    
+}
+.div4 p{
+    line-height: 1.22em;  
+    
+}
+h3{
+    margin-bottom: 5px;
+}
+
+
+
+
+
+.div4-1{
+    float: left;
+    width: 30.5%;
+   margin-right: 10px;
+}
+.div4-2{
+    float: left;
+    width: 30.5%;
+    margin-right: 10px;
+}
+.div4-3{
+    float: left;
+    width: 30.5%;
+    margin-right: 10px;
+}
+.div4{
+margin :10px;
+padding: 10px;
+}
+.div4-container{
+    width: 70%;
+    text-align: center;
+}
+.div4-container img{
+width: 100%;
+
+
+
+}
+
+.clearfix{
+    clear: both;
+}
+
+.div4 img{
+    width: 80%;
+}
+.div5-map{
+margin-bottom:10px ;
+    width: 40%;
+    float: right;
+}
+
+h4{
+
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+    font-weight: 300;
+}
+.div6{
+    background: #403d38;
+    padding: 30px;
+}
+.div6-1{
+float: left;
+width: 25%;
+text-align: center;
+
+
+}
+
+
+.div6 hr{
+color: chartreuse;
+
+}
+.div6-2{
+width: 25%;
+float: left;
+margin: 10;
+
+}
+li{
+padding: 15;   
+border-bottom: 1px solid #303030;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    color: #969696 ;
+    font-size: 23px;
+
+}
+.div6-3,.div6-4,.div6-2,.div6-1{
+
+    width: 23%;
+    float: left;
+    margin: 10;
+}
+
+a{
+    padding: 5;   
+    border-bottom: 1px solid #303030;
+       
+        color: #969696 ;
+        
+
+}
+
+
+
+.div7{
+
+    background-color: #303030 ;
+    margin-bottom: 0;
+    display:block;
+    text-align: center;
+    width: 100%;
+}
+.div7-1{}
+
+.div6-1 p{
+font-size: 20px;
+
+}
+body{
+
+    margin: 0;
+}
+ 
